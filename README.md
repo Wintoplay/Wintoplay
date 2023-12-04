@@ -5,7 +5,7 @@
 - 💸 I am currently a YSTP scholarship funded student. (need to maintain grade above 3.00 at all cost).
 - 📜 GPAX: 3.75
 - 🚀 Internship experience: OpenThaiGPT team (model research role) Aspire to be ML researcher and ML engineer 
-- 🌎 English proficiency: B2 (IELTS 6.0)
+- 🌎 English proficiency: C1 (IELTS 7.0)
 - 🖥️ experience: NLP with OpenThaiGPT team(Agile environment), Time series classification project, tabular data model creation, Object detection
 - ❤️ Preference: Reinforcement learning
 - 🏮 favorite paper: Dreamer v3, Roberta, N-beats
