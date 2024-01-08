@@ -7,8 +7,6 @@
 - 🚀 Internship experience: OpenThaiGPT team (model research role) Aspire to be ML researcher and ML engineer 
 - 🌎 English proficiency: C1 (IELTS 7.0)
 - 🖥️ experience: NLP with OpenThaiGPT team(Agile environment), Time series classification project, tabular data model creation, Object detection
-- ❤️ Preference: Reinforcement learning
-- 🏮 favorite paper: Dreamer v3, Roberta, N-beats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wintoplay&label=Profile%20views&color=0e75b6&style=flat" alt="wintoplay" /> </p>
 
